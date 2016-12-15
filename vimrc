@@ -22,6 +22,8 @@
 "==========================================
 " Initial Plugin 加载插件
 "==========================================
+" open the spell check              
+set spell spelllang=en_us
 
 " 修改leader键
 let mapleader = ','
